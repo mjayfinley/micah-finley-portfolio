@@ -1,0 +1,55 @@
+@media screen and (max-width: 768px) {
+
+  .projectTitle {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .iconos {
+    justify-content: center;
+  }
+
+  .skillText {
+    width: 100%;
+  }
+
+  .projectsMobile {
+    display: inline-block;
+  }
+
+  .projectsNormal {
+    display: none;
+  }
+
+}
+
+@media screen and (max-width: 575px) {
+
+  .portPicture {
+    margin-right: 0;
+  }
+
+  .proTitle {
+    font-size: 4em;
+  }
+
+  .projectTitle {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .iconos {
+    justify-content: center;
+  }
+
+  .name {
+    font-size: 4em;
+  }
+
+  .imageAbout {
+    height: 40px;
+    width: 40px;
+  }
+
+
+}
